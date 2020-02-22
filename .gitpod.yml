@@ -1,0 +1,4 @@
+  
+image: adoptopenjdk/openjdk8
+vscode:
+  extensions:

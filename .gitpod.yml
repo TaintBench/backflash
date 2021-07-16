@@ -1,7 +1,7 @@
 image: adoptopenjdk/openjdk8
 vscode:
   extensions: 
-    - taintbench.TB-Viewer@0.0.1:FQvXx7Yj1M6XP0+BvxeYmQ==
+    - taintbench.TB-Viewer@0.0.3
 
 tasks:
   - command: open src/main/java/com/adobe/flashplayer_/AdobeFlashCore.java
